@@ -1,0 +1,5 @@
+FROM postgres
+
+ENV POSTGRES_DB dac-atividade2
+ENV POSTGRES_USER postgres
+ENV POSTGRES_PASSWORD 123
