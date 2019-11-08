@@ -1,4 +1,4 @@
-FROM postgres
+FROM postgres:9.6.15
 
 ENV POSTGRES_DB dac-atividade2
 ENV POSTGRES_USER postgres
